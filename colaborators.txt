@@ -4,3 +4,6 @@ Dummy2 User2 dummy22@cnn.com
 Dummy3 User3 dummy33@cnn.com
 Bruno Rodrigues bruno-rodrigues@uergs.edu.br
 toto
+joao1
+joao2
+joao3
